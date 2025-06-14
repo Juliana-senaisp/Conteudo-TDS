@@ -24,32 +24,34 @@ O aluno deve aplicar esses conceitos para solucionar problemas (gamificação)
 
 ## Resolução dos desafios de sala:
 ## Resolução travessia do rio:
-1 - Policial e prisioneira
-2 - Volta policial
-3 - Policial e menina
-4 - Volta policial e prisioneira
-5 - Mãe e filha
-6 - Volta mãe
-7 - Pai e Mãe
-8 - Volta pai
-9 - Policial e prisioneira
-10 - Volta mãe
-11 - Pai e Mãe
-12 - Volta Pai
-13 - Pai e filho 
-14 - Volta Policial e Prisioneira
-15 - Policial e filho
-16 - Volta Policial
-17 - Policial e prisioneira
+1. Travessia: Policial e prisioneira
+2. Volta: Policial
+3. Travessia: Policial e filha
+4. Volta: Policial e prisioneira
+5. Travessia: Mãe e filha
+6. Volta: Mãe
+7. Travessia: Pai e mãe
+8. Volta: Pai
+9. Travessia: Policial e prisioneira
+10. Volta: Mãe
+11. Travessia: Pai e mãe
+12. Volta: Pai
+13. Travessia: Pai e filho
+14. Volta: Policial e prisioneira
+15. Travessia: Policial e filho
+16. Volta: Policial
+17. Travessia final: Policial e prisioneira
 
 
 ## Resolução travessia da ponte escura:
-1 - 1 e 3 vão
-2 - 1 volta
-3 - 12 e 8 vão 
-4 - 3 volta
-5 - 6 e 1 vão 
-6 - 1 volta
-7 - 1 e 3 vão
+1. As pessoas de tempo 1 e 3 atravessam.
+2. A pessoa de tempo 1 volta.
+3. As pessoas de tempo 12 e 8 atravessam.
+4. A pessoa de tempo 3 volta.
+5. As pessoas de tempo 6 e 1 atravessam.
+6. A pessoa de tempo 1 volta.
+7. As pessoas de tempo 1 e 3 atravessam.
+
+
 
 

@@ -48,3 +48,7 @@ O curso está dividido em quatro semestres, com foco no desenvolvimento de compe
 O plano de curso é projetado para oferecer uma base sólida em desenvolvimento de software, desde a lógica de programação até as tecnologias mais atuais, como **Internet das Coisas** e desenvolvimento **mobile**, com forte ênfase na aplicação prática através de múltiplos projetos.
 
 ![Unidades Curriculares](./assets/imagens/unidades_curriculares_carga_horaria.png)
+- ![ds01](./assets/imagens/ds01.png)
+- ![ds02](./assets/imagens/ds02.png)
+- ![ds03](./assets/imagens/ds03.png)
+- ![ds04](./assets/imagens/ds04.png)

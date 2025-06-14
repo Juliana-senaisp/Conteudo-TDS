@@ -1,0 +1,47 @@
+Jogos para fazer junto:
+(Resolução no fim do arquivo)
+- TRAVESSIA DO RIO: 
+- TRAVESSIA DA PONTE ESCURA: https://www.atividadeseducativas.com.br/index.php?id=198#google_vignette
+
+
+Jogos para eles fazerem sozinhos:
+Você deverá resolver quatro problemas de lógica com diferentes níveis de dificuldade: fácil, médio e difícil (dois problemas).
+Leia atentamente as instruções de cada desafio e preencha as lacunas para resolver os problemas.
+Facil: https://rachacuca.com.br/logica/problemas/show-de-talentos/
+Médio: https://rachacuca.com.br/logica/problemas/rodizio-de-pizza/
+Difícil I: https://rachacuca.com.br/logica/problemas/black-friday/
+Difícil II: https://rachacuca.com.br/logica/problemas/festa-junina/
+
+
+
+
+
+RESOLUÇÃO TRAVESSIA DO RIO:
+1 - Policial e prisioneira
+2 - Volta policial
+3 - Policial e menina
+4 - Volta policial e prisioneira
+5 - Mãe e filha
+6 - Volta mãe
+7 - Pai e Mãe
+8 - Volta pai
+9 - Policial e prisioneira
+10 - Volta mãe
+11 - Pai e Mãe
+12 - Volta Pai
+13 - Pai e filho 
+14 - Volta Policial e Prisioneira
+15 - Policial e filho
+16 - Volta Policial
+17 - Policial e prisioneira
+
+
+RESOLUÇÃO TRAVESSIA DA PONTE ESCURA:
+1 - 1 e 3 vão
+2 - 1 volta
+3 - 12 e 8 vão 
+4 - 3 volta
+5 - 6 e 1 vão 
+6 - 1 volta
+7 - 1 e 3 vão
+

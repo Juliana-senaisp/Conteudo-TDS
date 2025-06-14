@@ -1,5 +1,5 @@
 # TDES1 - Primeiro Semestre
-- [LOP (Lógica de Programação e Algoritmos - Linguágem C, Git, Github)](./01-lop/)
+- [LOP (Lógica de Programação e Algoritmos - Linguágem C, Git, Github)](./ARI - Arquitetura de Redes com IOT/)
 - [SOP (Fundamentos e Administração de Sistemas Operacionais)](./02-sop/)
 - [LER (Levantamento de Requisitos)](./03-ler/)
 - [ARIoT (Arquitetura de redes com IoT)](./04-aito/)

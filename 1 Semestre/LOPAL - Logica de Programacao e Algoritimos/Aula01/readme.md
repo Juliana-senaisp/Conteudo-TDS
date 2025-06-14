@@ -1,7 +1,6 @@
 # AULA 01 
 
-Objetivo:
--
+## Objetivo:
 Entender os conceitos da lógica: 
 - Principios Básicos
 - Tipos de Raciocínio
@@ -10,19 +9,18 @@ Entender os conceitos da lógica:
 O aluno deve aplicar esses conceitos para solucionar problemas (gamificação)
 
 ## Desafios para fazer com eles em sala de aula:
-1 - Travessia do rio: https://www.atividadeseducativas.com.br/index.php?id=197
-
-2 - Travessia da ponte escura: https://www.atividadeseducativas.com.br/index.php?id=198#google_vignette
+1. [Travessia do rio](https://www.atividadeseducativas.com.br/index.php?id=197)
+2. [Travessia da ponte escura](https://www.atividadeseducativas.com.br/index.php?id=198#google_vignette)
 
 
 ## Desafios de lógica para eles fazerem sozinho:
-- Facil: https://rachacuca.com.br/logica/problemas/show-de-talentos/
-- Médio: https://rachacuca.com.br/logica/problemas/rodizio-de-pizza/
-- Difícil I: https://rachacuca.com.br/logica/problemas/black-friday/
-- Difícil II: https://rachacuca.com.br/logica/problemas/festa-junina/
+- [Facil](https://rachacuca.com.br/logica/problemas/show-de-talentos/)
+- [Médio](https://rachacuca.com.br/logica/problemas/rodizio-de-pizza/)
+- [Difícil I](https://rachacuca.com.br/logica/problemas/black-friday/)
+- [Difícil II](https://rachacuca.com.br/logica/problemas/festa-junina/)
 
 
-## Resolução dos desafios de sala:
+# Resolução dos desafios de sala:
 ## Resolução travessia do rio:
 1. Travessia: Policial e prisioneira
 2. Volta: Policial

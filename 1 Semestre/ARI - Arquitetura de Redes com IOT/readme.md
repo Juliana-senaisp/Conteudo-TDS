@@ -1,120 +1,92 @@
-#  INTERNET DAS COISAS
+# ARQUITETURA DE REDES COM IOT
 
 |Objetivo:|
 |-|
-|Desenvolver capacidades técnicas e socioemocionais necessárias à implementação de 
-soluções com tecnologias de IoT para a integração de sistemas, por meio de sensores, atuadores e 
-aplicações de interfaces gráficas.|
+|Desenvolver capacidades básicas e socioemocionais necessárias para utilizar serviços de redes locais e industriais, para aplicações em nuvens públicas e privadas|
 
 - Carga Horária (**Mínimo 75%** de Frequência)
 
 |Modalidade|Horas|Aulas|
 |-|-|-|
 |Presencial|75 horas|100 aulas|
-|Máximo |25 |faltas|
+|Limite | Faltas | 25|
 
 - Notas (**Mínimo 50** de 0 a 100)
 
 |Avaliação|Peso|Nota|
 |-|:-:|:-:|
-|N01|1|0 a 100|
-|N02|1|0 a 100|
-|Atividades|1|0 a 100|
+|VPS01|35|0 a 100|
+|VPS02|35|0 a 100|
+|Atividades|30|0 a 100|
 
-## Competências Específicas e Socioemocionais
+## Competências Específicas e Socioemocionais 
 
-### Capacidades Técnicas
-- 1 Identificar as diferenças entre as aplicações do IoT e IIoT 
-- 2 Identificar os tipos de hardwares e soluções disponíveis 
-- 3 Configurar ambientes de desenvolvimento
-- 4 Implementar protocolos de comunicação  
-- 5 Integrar a automação em plataforma na nuvem 
-- 6 Conectar as aplicações gráficas  
+### Capacidades Básicas:
+- 1 Identificar as topologias empregadas nas redes de computadores
+- 2 Identificar modelos e protocolo TCP/IP de rede e suas aplicações na comunicação entre sistemas computacionais
+- 3 Utilizar ativos e passivos que compõem uma rede de computadores
+- 4 Aplicar arquitetura de hardware em IoT
+- 5 Configurar os tipos de serviços fundamentais de redes
 
 ### Capacidades Socioemocionais
 - 1 Demonstrar autogestão
 - 2 Demonstrar pensamento analítico
 - 3 Demonstrar inteligência emocional
-- 6 Trabalhar em equipe 
+- 4 Demonstrar autonomia
 
-## Conhecimentos
-- 1 Automação em IoT 
-  - 1.1 Residencial  
-  - 1.2 Pessoal 
-  - 1.3 Industriais  
-  - 1.4 Aplicações 
-- 2 Requisitos para Instalação 
-  - 2.1 Hardware 
-    - 2.1.1 Conectividade 
-    - 2.1.2 Periféricos 
-  - 2.2 Sensores e Atuadores 
-    - 2.2.1 Interfaces de I/O 
-    - 2.2.2 Analógica 
-- 3 Ambiente de desenvolvimento 
-  - 3.1 IDE (Integrated Development Enviroment) 
-    - 3.1.1. Tipos 
-    - 3.1.2. Seleção 
-  - 3.2. Configuração 
-- 4 Protocolos de comunicação 
-  - 4.1 Message Queuing Telemetry Transport (MQTT) 
-  - 4.2 Hypertext Transfer Protocol (HTTP) 
-  - 4.3 Bluetooth e Bluetooth Low Energy (BLE) 
-  - 4.4 Zigbee 
-  - 4.5 LoRaWAN 
-  - 4.6 NB-IoT (Narrowband IoT) e LTE-M 
-- 5 Preparação de dispositivo IoT 
-  - 5.1 Conexão com a nuvem 
-  - 5.2 Envio de dados  
-  - 5.3 Configuração 
-    - 5.3.1 Regras 
-    - 5.3.2 Lógica 
-  - 5.4 Resultados 
-    - 5.4.1 Visualização 
-    - 5.4.2 Controle 
-- 6 Interfaces com elementos visuais 
-  - interativos 
-  - 6.1 Linguagens 
-    - 6.1.1 HTML 
-    - 6.1.2 CSS  
-    - 6.1.3 JavaScript 
-  - 6.2 Aplicações  
-    - 6.2.1 Visualização de Dados 
-    - 6.2.2 Interatividade 
-    - 6.2.3 Testes  
-    - 6.2.4 Feedbacks
+## Conhecimentos:
+- 1 Arquitetura de Redes
+	- 1.1. Definição
+	- 1.2. Tipos
+		- 1.2.1.Rede Cliente-Servidor
+		- 1.2.2.Rede Peer-to-Peer (P2P)
+		- 1.2.3.Rede em Camadas
+		- 1.2.4.Rede em Árvore (Hierárquica)
+		- 1.2.5.Rede em Anel (Ring)
+		- 1.2.6.Rede em Malha (Mesh)
+	- 1.3. Meios de transmissão de dados
+		- 1.3.1.Cabeado
+		- 1.3.2.Sem fio
+- 2 Modelos e protocolo de redes
+	- 2.1. Definição
+	- 2.2. Protocolo TCP/IP
+		- 2.2.1.Definição
+		- 2.2.2.Endereçamento de IPv4
+		- 2.2.3.Endereçamento de IPv6
+		- 2.2.4.Portas
+	- 2.3. Protocolo MQTT (Message Queuing Telemetry Transport)
+		- 2.3.1.Definição
+		- 2.3.2.Aplicação
+- 3 Equipamentos de rede
+	- 3.1. Roteador
+	- 3.2. Switch
+	- 3.3. Access Point
+	- 3.4. Gateway
+	- 3.5. Firewall
+- 4 Arquitetura de hardware IoT
+	- 4.1. Unidades de medidas computacionais
+	- 4.2. I/O (Inputs e Outputs)
+	- 4.3. Processadores
+	- 4.4. Sensores
+	- 4.5. Memórias
+	- 4.6. Armazenamento
+- 5 Serviços de Redes
+	- 5.1. Definição
+	- 5.2. Tipos
+		- 5.2.1.FTP (File Transfer Protocol)
+		- 5.2.2.HTTP/HTTPS (Hypertext Transfer Protocol/Seguro)
+		- 5.2.3.RDP (Remote Desktop Protocol)
 
-## Recomendações Metodológicas
-- Recomenda-se a utilização dos dispositivos abaixo: 
-  - Arduino 
-  - Raspberry Pi 
-  - ESP8266 e ESP32 
-  - Kit com sensores e atuadores 
-- Para configurar o hardware, recomenda-se: 
-  - Arduino IDE 
-  - PlatformIO 
-  - Thonny 
-  - Visual Studio Code (VS Code) 
-  - MicroPython IDE 
-- Para desenvolvimento do sistema, recomenda-se as seguintes linguagens de programação: 
-  - C e C++ 
-  - Python 
-  - Node.js 
-  - Lua 
+## Referências básicas
+- SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL. Arquitetura de Redes de Computadores - Serie Tecnologia da Informação - Hardware, 1ª, Editora SENAI, 2017.
+- SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL. Servidores de Redes - Serie Tecnologia da Informação - Hardware, 1ª, Editora SENAI, 2019.
+- SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL. Serviços de Rede Local - Serie Tecnologia da Informação - Hardware, 1ª, Editora SENAI, 2019.
+- SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL. Infraestrutura de Rede LAN E WLAN - Serie Tecnologia da Informação - Hardware, 1ª, Editora SENAI, 2019.
+- KUROSE, James; ROSS, Keith. Redes de computadores e a Internet, 8ª, Bookman Editora, 2020.
 
-## Ambiente Pedagógico:
-- Laboratório de Desenvolvimento de Sistemas (com um computador/notebook por aluno) preferencialmente distribuído em ilhas ou Sala de aula com notebooks para cada aluno
-- Laboratório de Desenvolvimento Web e Mobile (um workstation por aluno)
-- Ambiente colaborativo – Coworking
-- Espaço maker
-- Biblioteca
-## Referências Básicas:
-- Bahga, A., & Madisetti, V. (2014). Internet of Things: A Hands-On Approach. VPT. 
-- Lea, P., & Moffat, V. (2018). Internet of Things for Architects: Architecting IoT solutions by implementing sensors, communication infrastructure, edge computing, analytics, and security. Packt Publishing. 
-- Hanes, D., Salgueiro, G., & Grossetete, P. (2017). IoT Fundamentals: Networking Technologies, 
-Protocols, and Use Cases for the Internet of Things. Cisco Press.
-## Referências Complementares:
-- Javed, A. (2016). Building Arduino Projects for the Internet of Things: Experiments with Real World Applications. Apress. 
-- Rowland, C., Goodman, E., Charlier, M., Light, A., & Lui, A. (2015). Designing Connected Products: UX for the Consumer Internet of Things. O'Reilly Media. 
-- Moeller, J. (2018). Practical Internet of Things for Beginners: Design, Deploy, and Secure Your IoT Projects. CreateSpace Independent Publishing Platform.
-- Kranz, M. (2016). Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry. Wiley.
-- Schwartz, M. (2016). Internet of Things with ESP8266: Build Exciting Internet of Things Projects Using the ESP8266 Wi-Fi Chip. CreateSpace Independent Publishing Platform 
+## Referências complementares
+- SILVA, Cassian Fagundes. Arquitetura e práticas TCP/IP I e II. 1ª, Contentus, 2021.
+- FERNANDES, Alexandre. Redes de Computadores: Fundamentos, 8ª, Bookman Editora, 2020.
+- BASSO, Dougla Eduardo. Administração de Redes de Computadores. 1ª, Contentus, 2020.
+- COMER, Douglas E. Redes de Computadores e Internet. 1ª, Bookman Editora, 2016.
+- ENGST, Adam; FLEISHMAN, Glenn. Kit do iniciante em redes sem fio: o guia prático sobre redes Wi-Fi para Windowns e Macintosh. 2ª, Editora Pearson, 2005.

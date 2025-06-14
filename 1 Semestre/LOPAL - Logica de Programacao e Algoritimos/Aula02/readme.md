@@ -1,13 +1,12 @@
-# TDES1 - Primeiro Semestre
-- [LOP (Lógica de Programação e Algoritmos)]
-- [SOP (Fundamentos e Administração de Sistemas Operacionais)]
-- [LER (Levantamento de Requisitos)]
-- [ARIoT (Arquitetura de Redes com IoT)]
+# AULA 02 
 
-## Proposta de divisão das aulas
-Não necessáriamente as aulas seguirão esta ordem, mas a proposta é que sejam distribuídas dessa forma para lançamento de presenças no potal.
-
-### Primeiro dia da semana
+## Objetivo:
+- Identificar e diferenciar os tipos de linguagem
+- Entender e identificar os tipos de representação de algoritmos
+- Compreender o significado de entrada, processamento e saída
 
 
-### Segundo dia da semana
+# Atividade:
+- Criar soulções para as descrições narrativas propostas
+    - O aluno pode colocar as resoluções no WORD, NOTION, BLOCO DE NOTAS ou outra ferramenta para edição de texto
+- (Se for necessario) Iniciar a explicação de Fluxograma na plataforma [MIRO](https://miro.com/index/)

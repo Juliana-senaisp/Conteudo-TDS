@@ -6,7 +6,7 @@ Entender os conceitos da lógica:
 - Tipos de Raciocínio
 - Lógica de Programação
  
-O aluno deve aplicar esses conceitos para solucionar problemas (gamificação)
+**O aluno deve aplicar esses conceitos para solucionar problemas (gamificação)**
 
 ## Desafios para fazer com eles em sala de aula:
 1. [Travessia do rio](https://www.atividadeseducativas.com.br/index.php?id=197)

@@ -11,13 +11,14 @@ aplicações de interfaces gráficas.|
 |Modalidade|Horas|Aulas|
 |-|-|-|
 |Presencial|75 horas|100 aulas|
+|Máximo |25 |faltas|
 
 - Notas (**Mínimo 50** de 0 a 100)
 
 |Avaliação|Peso|Nota|
 |-|:-:|:-:|
-|VPS01|2|0 a 100|
-|VPS02|2|0 a 100|
+|N01|1|0 a 100|
+|N02|1|0 a 100|
 |Atividades|1|0 a 100|
 
 ## Competências Específicas e Socioemocionais

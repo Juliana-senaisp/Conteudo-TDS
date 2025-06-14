@@ -9,7 +9,7 @@
 |Modalidade|Horas|Aulas|
 |-|-|-|
 |Presencial|90 horas|120 aulas|
-|Limite|Faltas|30|
+|Limite|Faltas|30 aulas|
 
 - Notas (**Mínimo 50** de 0 a 100)
 

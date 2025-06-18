@@ -1,13 +1,18 @@
-# TDES1 - Primeiro Semestre
-- [LOP (Lógica de Programação e Algoritmos)]
-- [SOP (Fundamentos e Administração de Sistemas Operacionais)]
-- [LER (Levantamento de Requisitos)]
-- [ARIoT (Arquitetura de Redes com IoT)]
+# AULA 04
 
-## Proposta de divisão das aulas
-Não necessáriamente as aulas seguirão esta ordem, mas a proposta é que sejam distribuídas dessa forma para lançamento de presenças no potal.
+## Objetivo:
+- Identificar as diferentes operações matemáticas
+- Aplicar os operadores aritmeticos 
+- Resolver os problemas propostos
 
-### Primeiro dia da semana
+# Conteúdo de aula:
+- Faça em Sala de aula os conteúdos descritos nesse NOTION
+    - [Entrada e saída](https://www.notion.so/04-Entrada-e-Sa-da-19d37d2a225e80e2aed0f9ee3d4fe14b)
+    - [Concatenação](https://www.notion.so/05-Concatena-o-1a037d2a225e80a1ab75cf6d18217049)
+    - [Estrutura Condicional](https://www.notion.so/06-Estrutura-Condicional-1a037d2a225e80fd8ec1dc1ce1d371e5)
 
-
-### Segundo dia da semana
+# Atividade:
+- Resolver a lista de exercicio prosposta  
+    - O aluno deve resolver os exercicios no [Portugol](https://portugol.dev/)
+- Faça a Lista 02 - Entrada e saída
+- Faça a Lista 03 - Estrutua Condiciona

@@ -10,3 +10,5 @@
 - Criar soulções para as descrições narrativas propostas
     - O aluno pode colocar as resoluções no WORD, NOTION, BLOCO DE NOTAS ou outra ferramenta para edição de texto
 - (Se for necessario) Iniciar a explicação de Fluxograma na plataforma [MIRO](https://miro.com/index/)
+
+![Fluxograma Miro](Formas%20Fluxograma.jpg)
